@@ -19,8 +19,10 @@ docker-compose up
 ```
 
 ```
-compose up
+docker compose up
 ```
+
+### NB : JE N'AI BESOIN DE RIEN CREER SA CREER LE RESEAU JE LANCE JUSTE LES COMMADES ET SA MARCHE
 
 ### Explication
 

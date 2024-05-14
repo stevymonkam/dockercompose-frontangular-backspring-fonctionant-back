@@ -33,7 +33,7 @@ donc lors de la masterclass les gar doivent installer la meme machine docker pou
 pour deployer dans une autre machine tu utilise ce lien pour cloner et lancer la nouvel build de l'image en mettant l'adress ip de la nouvelle machine dans config et sa doit etre sous la 
 forme http://nouvel_ip:8080 pour pouvoir communiquer avec le back end 
 ```
-git clone https://github.com/stevymonkam/EcomerceFinal.git
+git clone https://github.com/stevymonkam/ecommerce-angular.git
 ```
 
 si l' adrees ip de la macchine docker a changer voici ce qu'il faut faire pour remettre l'adress ip
